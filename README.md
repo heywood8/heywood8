@@ -15,3 +15,15 @@ I'm a DevOps Engineer 💻, singer 🎸, and gamer 🎮!
 <a href="https://tg.me/heywood8"><img align="left" src="https://www.svgrepo.com/show/3109/telegram.svg" alt="Heywood8 | Telegram" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+## 💼 Technical Skills
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+<TBD>
+
+
+## 📈 GitHub Stats 
+
+[![Heywood8's github stats](https://github-readme-stats.vercel.app/api?username=heywood8)](https://github.com/heywood8)
