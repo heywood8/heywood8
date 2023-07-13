@@ -23,6 +23,8 @@ I'm a DevOps Engineer 💻, singer 🎸, and gamer 🎮!
 ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 <TBD>
 
+## Published projects:
+<div class="artifacthub-widget" data-url="https://artifacthub.io/packages/helm/heywood8-helm-charts/redisinsight" data-theme="light" data-header="true" data-stars="true" data-responsive="false"><blockquote><p lang="en" dir="ltr"><b>redisinsight</b>: A Redisinsight Helm chart for kubernetes</p>&mdash; Open in <a href="https://artifacthub.io/packages/helm/heywood8-helm-charts/redisinsight">Artifact Hub</a></blockquote></div><script async src="https://artifacthub.io/artifacthub-widget.js"></script>
 
 ## 📈 GitHub Stats 
 
