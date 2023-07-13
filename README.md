@@ -24,7 +24,7 @@ I'm a DevOps Engineer 💻, singer 🎸, and gamer 🎮!
 <TBD>
 
 ## Published projects:
-<div class="artifacthub-widget" data-url="https://artifacthub.io/packages/helm/heywood8-helm-charts/redisinsight" data-theme="light" data-header="true" data-stars="true" data-responsive="false"><blockquote><p lang="en" dir="ltr"><b>redisinsight</b>: A Redisinsight Helm chart for kubernetes</p>&mdash; Open in <a href="https://artifacthub.io/packages/helm/heywood8-helm-charts/redisinsight">Artifact Hub</a></blockquote></div><script async src="https://artifacthub.io/artifacthub-widget.js"></script>
+<div class="artifacthub-widget" data-url="https://artifacthub.io/packages/helm/heywood8-helm-charts/redisinsight" data-theme="light" data-header="true" data-stars="true" data-responsive="false"><blockquote><p lang="en" dir="ltr"><b>redisinsight</b>: A Redisinsight Helm chart for kubernetes</p>&mdash; Open in <a href="https://artifacthub.io/packages/helm/heywood8-helm-charts/redisinsight">Artifact Hub</a></blockquote></div>
 
 ## 📈 GitHub Stats 
 
