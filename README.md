@@ -11,17 +11,10 @@ I'm a DevOps Engineer 💻, singer 🎸, and gamer 🎮!
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/lopatin/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Nikita Lopatin | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/lopati_n"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Lopati_n | Instagram" width="21px"/></a>
 <a href="https://t.me/heywood8"><img align="left" src="https://cdn.iconscout.com/icon/free/png-512/free-telegram-3691230-3073750.png" alt="Heywood8 | Telegram" width="21px"/></a>
 <br/>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 💼 Technical Skills
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-<TBD>
 
 ## Published projects:
 <div class="artifacthub-widget" data-url="https://artifacthub.io/packages/helm/heywood8-helm-charts/redisinsight" data-theme="light" data-header="true" data-stars="true" data-responsive="false"><blockquote><p lang="en" dir="ltr"><b>redisinsight</b>: A Redisinsight Helm chart for kubernetes</p>&mdash; Open in <a href="https://artifacthub.io/packages/helm/heywood8-helm-charts/redisinsight">Artifact Hub</a></blockquote></div>
