@@ -19,6 +19,6 @@ I'm a DevOps Engineer 💻, singer 🎸, and gamer 🎮!
 ## Published projects:
 <div class="artifacthub-widget" data-url="https://artifacthub.io/packages/helm/heywood8-helm-charts/redisinsight" data-theme="light" data-header="true" data-stars="true" data-responsive="false"><blockquote><p lang="en" dir="ltr"><b>redisinsight</b>: A Redisinsight Helm chart for kubernetes</p>&mdash; Open in <a href="https://artifacthub.io/packages/helm/heywood8-helm-charts/redisinsight">Artifact Hub</a></blockquote></div>
 
-## 📈 GitHub Stats 
+## Working on: 
 
-[![Heywood8's github stats](https://github-readme-stats.vercel.app/api?username=heywood8)](https://github.com/heywood8)
+<a href="https://github.com/heywood8/money-tracker"> Penny: money tracker app</a>
