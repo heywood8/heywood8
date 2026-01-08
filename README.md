@@ -15,10 +15,6 @@ I'm a DevOps Engineer 💻, singer 🎸, and gamer 🎮!
 <br/>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-
-## Published projects:
-<div class="artifacthub-widget" data-url="https://artifacthub.io/packages/helm/heywood8-helm-charts/redisinsight" data-theme="light" data-header="true" data-stars="true" data-responsive="false"><blockquote><p lang="en" dir="ltr"><b>redisinsight</b>: A Redisinsight Helm chart for kubernetes</p>&mdash; Open in <a href="https://artifacthub.io/packages/helm/heywood8-helm-charts/redisinsight">Artifact Hub</a></blockquote></div>
-
-## Working on: 
+## Currently working on: 
 
 <a href="https://github.com/heywood8/money-tracker"> Penny: money tracker app</a>
